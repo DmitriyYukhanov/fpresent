@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<pages>
+		<page url="Title.swf"/>
+		<page url="2.png"/>
+		<page url="3.swf"/>
+		<page url="4.swf"/>
+		<page url="5.swf"/>
+		<page url="7.png"/>
+		<page url="8.swf"/>
+		<page url="9.png"/>
+		<page url="10.swf"/>
+		<page url="11.jpg"/>
+		<page url="12.jpg"/>
+		<page url="13.png"/>
+		<page url="14.swf"/>
+		<page url="15.png"/>
+	</pages>
+	<ef_settings>
+		<CrashEffect particlesXMin="30" particlesXMax="40" particlesYMin="30" particlesYMax="40" physVelIterations="2" physPosIterations="2"/>
+		<FallEffect particlesX="200"/>
+		<FallEffect particlesY="150"/>
+	</ef_settings>
+</data>
